@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoIst Login Page</string>
+
+    <string name="hyperlink">By continuing, you agree to our <a href="https://www.geeksforgeeks.org">User Agreement</a> and <a href="https://www.tashrique.com">Privacy Policy</a></string>
+</resources>
